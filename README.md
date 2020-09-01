@@ -1,4 +1,4 @@
-# GitHub Actions node testing
+# Testando aplicação node com GitHub Actions
 
 Esse projeto tem como objetivo configurar um projeto Node com as seguintes especificações:
 
