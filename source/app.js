@@ -1,4 +1,5 @@
 const express = require('express')
+const coronaHate = require('./soundMaker')
 
 const app  = express()
 
@@ -7,5 +8,5 @@ var listener = app.listen(3000, () => {
 })
 
 app.get('/', (req, res) => { 
-    res.send("odeio coronavirus")
+    res.send(coronaHate())
 })

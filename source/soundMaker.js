@@ -1,5 +1,5 @@
-module.exports = helloWorld
+module.exports = coronaHate
 
-function helloWorld() {
-    return "Hello World"
+function coronaHate() {
+    return "odeio coronavirus"
 }

@@ -1,5 +1,5 @@
-const helloWorld = require('../soundMaker')
+const coronaHate = require('../soundMaker')
 
 test('test soundMaker saying hello world', () =>{ 
-    expect(helloWorld())
+    expect(coronaHate())
 })
