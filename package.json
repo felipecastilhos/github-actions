@@ -1,0 +1,12 @@
+{
+  "name": "github-actions",
+  "version": "1.0.0",
+  "main": "source/app.js",
+  "repository": "https://github.com/felipecastilhos/github-actions.git",
+  "author": "Felipe Castilhos <felipecastilhos@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "startp": "node source/app.js"
+  }
+
+}
