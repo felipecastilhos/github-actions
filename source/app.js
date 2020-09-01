@@ -1,11 +1,11 @@
-// const express = require('express')
+const express = require('express')
 
-// const app  = express()
+const app  = express()
 
-// var listener = app.listen(3000, () => {
-//     console.log('Listening on port ' + listener.address().port);
-// })
+var listener = app.listen(3000, () => {
+    console.log('Listening on port ' + listener.address().port);
+})
 
-// app.get('/', (req, res) => { 
-//     res.send("odeio coronavirus")
-// })
+app.get('/', (req, res) => { 
+    res.send("odeio coronavirus")
+})
