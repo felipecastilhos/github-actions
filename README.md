@@ -1,14 +1,11 @@
-# Testando aplicação node com GitHub Actions
+# Node.JS application with github actions.
+
 This project has been **ARCHIEVED**
 
-This was built to learn some useful github actions using a Node.JS application as example.
+This was built to learn some useful github actions using a Node.JS application as example. I just give up building the application and started to practice with some of my Android Projects.
+
+---
+
+This is just an Node.JS applications that really hates the coronavirus.
 
 
-
-Esse projeto tem como objetivo configurar um projeto Node com as seguintes especificações:
-
-- Uma aplicação rodando no express que diz que odeia o coronavirus
-- Yarn
-- Testes unitários com jest
-- Testes de rotas
-- Testes rodando no GitHub Actions
