@@ -1,4 +1,9 @@
 # Testando aplicação node com GitHub Actions
+This project has been **ARCHIEVED**
+
+This was built to learn some useful github actions using a Node.JS application as example.
+
+
 
 Esse projeto tem como objetivo configurar um projeto Node com as seguintes especificações:
 
